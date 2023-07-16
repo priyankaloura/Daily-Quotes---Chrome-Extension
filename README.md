@@ -46,9 +46,6 @@ The Daily Quotes Chrome Extension is built using the following technologies:
 
 Contributions to the Daily Quotes Chrome Extension project are always welcome. If you find any bugs, have suggestions for new features, or want to improve the extension in any way, feel free to submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
